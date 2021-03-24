@@ -1,12 +1,12 @@
-# Pac-Man
+# pac-man-AI
 (WORK IN PROGRESS)
-The goal is to first implement whole Pac-Man game, then use reinforcement learning to get the yellow ball moving by itself!
+The goal is to first implement whole Pacman game, then use reinforcement learning to get the yellow eating ball moving by itself!
 
 ## Done
 * map
-* Pac-Man movement 
+* Pacman movement mechanics 
 * collisions
-* A* for finding the shortest path to Pac-Man
+* A* for finding the shortest path to Pacman
 
 ## Todo
 * ghosts
